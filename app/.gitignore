@@ -1,0 +1,8 @@
+.env
+chromedriver
+venv
+__pycache__
+chromedriver.exe
+include
+os
+requirements.txt
